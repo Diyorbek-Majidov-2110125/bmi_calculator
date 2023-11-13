@@ -24,6 +24,6 @@ To run the BMI Calculator application, follow the steps below:
 
   The project consists of the following files:
   
- --> bmi_calculator.dart: Contains the implementation of the BMI Calculator widget. It is a stateful widget that     calculates the BMI based on the provided height and weight input. It also determines the BMI category and updates the UI accordingly.
- --> bmi_calculator_app.dart: Implements the BMI Calculator app widget, which is a stateless widget. It sets up the app's theme and structure, including the app bar and the BMI Calculator widget as the home screen.
- --> main.dart: The entry point of the application. It runs the BMI Calculator app by instantiating the BMICalculatorApp widget.
+ 1. bmi_calculator.dart: Contains the implementation of the BMI Calculator widget. It is a stateful widget that     calculates the BMI based on the provided height and weight input. It also determines the     BMI category and updates the UI accordingly.
+ 2. bmi_calculator_app.dart: Implements the BMI Calculator app widget, which is a stateless widget. It sets up the app's theme and structure, including the app bar and the BMI Calculator widget as the         home screen.
+ 3. main.dart: The entry point of the application. It runs the BMI Calculator app by instantiating the BMICalculatorApp widget.
